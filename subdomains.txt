@@ -1,0 +1,3 @@
+sub1.test.com
+sub2.test.com
+sub3.test.com
